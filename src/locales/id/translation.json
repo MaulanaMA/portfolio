@@ -1,0 +1,379 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "skills": "Keahlian",
+    "experience": "Pengalaman",
+    "projects": "Proyek",
+    "education": "Pendidikan",
+    "services": "Layanan",
+    "contact": "Kontak",
+    "download_cv": "Unduh CV"
+  },
+  "hero": {
+    "badge_available": "Siap Bekerja & Menerima Proyek Freelance",
+    "greeting": "Halo, Saya",
+    "name": "Maulana Muhammad Adityawarman",
+    "tagline": "Membangun Solusi Digital Melalui Kode dan Teknologi.",
+    "roles": [
+      "Software Developer",
+      "Backend Specialist",
+      "Network & Infrastructure Enthusiast",
+      "Technology Educator"
+    ],
+    "description": "Lulusan S1 Informatika Universitas Hayam Wuruk Perbanas Surabaya dengan fokus pada arsitektur web modern, pengembangan backend yang tangguh, manajemen basis data, serta infrastruktur jaringan komputer.",
+    "cta_contact": "Hubungi Saya",
+    "cta_cv": "Unduh Resume / CV",
+    "scroll_down": "Gulir ke bawah"
+  },
+  "about": {
+    "section_badge": "Profil Profesional",
+    "title": "Mengenal Lebih Dekat",
+    "subtitle": "Kombinasi ketertarikan mendalam pada rekayasa perangkat lunak, infrastruktur jaringan, dan edukasi teknologi.",
+    "p1": "Saya adalah seorang **Software Developer** dan **IT Enthusiast** lulusan S1 Informatika dari Universitas Hayam Wuruk Perbanas Surabaya (2026). Saya memiliki komitmen kuat dalam menciptakan sistem digital yang efisien, terstruktur, dan terukur.",
+    "p2": "Perjalanan saya di dunia teknologi tidak hanya berfokus pada penulisan kode, tetapi juga mencakup pemahaman mendalam tentang **infrastruktur jaringan, administrasi server Linux, konfigurasi routing/switching**, dan manajemen basis data. Pendekatan holistik ini memungkinkan saya merancang arsitektur perangkat lunak yang andal dari sisi hulu hingga hilir.",
+    "p3": "Selain kegiatan teknikal, saya mendedikasikan waktu sebagai **Pengajar Coding dan Berpikir Komputasional** bagi siswa sekolah dasar. Pengalaman ini mengasah kemampuan komunikasi, kesabaran, empati, serta kapabilitas menjelaskan konsep teknologi yang kompleks dengan cara yang sederhana dan menyenangkan.",
+    "stats": {
+      "projects_completed": "Proyek Selesai",
+      "years_passion": "Tahun Eksplorasi IT",
+      "students_taught": "Siswa Terbimbing",
+      "tech_domains": "Domain Keahlian Utama"
+    },
+    "traits": {
+      "problem_solver_title": "Problem Solver Terstruktur",
+      "problem_solver_desc": "Menganalisis akar masalah dan membangun solusi teknis yang efisien serta mudah dirawat.",
+      "infra_title": "Paham Infrastruktur & Jaringan",
+      "infra_desc": "Memahami arsitektur server, routing Cisco/MikroTik, dan komunikasi protokol web.",
+      "communicator_title": "Komunikasi & Edukasi",
+      "communicator_desc": "Mampu berkolaborasi dengan tim lintas disiplin dan menjembatani bahasa teknis ke bahasa bisnis."
+    }
+  },
+  "skills": {
+    "section_badge": "Kompetensi Teknis",
+    "title": "Teknologi & Keahlian",
+    "subtitle": "Keahlian praktis yang telah diuji dalam proyek nyata dan implementasi industri.",
+    "categories": {
+      "programming_backend": "Pemrograman & Backend",
+      "frontend_web": "Frontend & Pengembangan Web",
+      "database": "Basis Data & Manajemen Data",
+      "network_infra": "Jaringan & Infrastruktur IT",
+      "tools_devops": "Peralatan & Workflow"
+    },
+    "level": {
+      "advanced": "Tingkat Lanjut",
+      "intermediate": "Menengah",
+      "foundation": "Fondasi Kuat"
+    }
+  },
+  "learning": {
+    "section_badge": "Pengembangan Diri Berkelanjutan",
+    "title": "Teknologi yang Sedang Dipelajari",
+    "subtitle": "Selalu mengeksplorasi paradigma dan teknologi modern untuk menjawab tantangan masa depan.",
+    "items": [
+      {
+        "name": "Cloud Native & Docker",
+        "description": "Kontainerisasi aplikasi, orkestrasi microservices, dan deployment modern di environment cloud."
+      },
+      {
+        "name": "Next.js & Serverless Architecture",
+        "description": "Eksplorasi Server-Side Rendering (SSR), React Server Components, dan edge computing."
+      },
+      {
+        "name": "Network Automation (Python & Ansible)",
+        "description": "Otomasi konfigurasi perangkat router & switch skala besar menggunakan skrip dan playbook."
+      },
+      {
+        "name": "Advanced Cybersecurity & Hardening",
+        "description": "Peningkatan keamanan server Linux, auditing lalu lintas data, dan pencegahan kerentanan web."
+      }
+    ]
+  },
+  "experience": {
+    "section_badge": "Jejak Rekam",
+    "title": "Pengalaman Kerja & Lapangan",
+    "subtitle": "Kombinasi pengalaman mengajar, teknisi jaringan, infrastruktur listrik, dan kegiatan organisasi.",
+    "types": {
+      "teaching": "Edukasi Teknologi",
+      "intern": "Magang Jaringan",
+      "tech": "Teknisi Lapangan",
+      "organization": "Organisasi Kampus"
+    },
+    "items": {
+      "coding_teacher": {
+        "role": "Pengajar Coding & Computational Thinking",
+        "company": "Edukasi Teknologi Siswa Sekolah Dasar",
+        "period": "2024 - Sekarang",
+        "desc": "Membimbing dan mengajar anak-anak sekolah dasar dalam memahami logika pemrograman, computational thinking, dan pengenalan sains komputer melalui metode pembelajaran interaktif.",
+        "responsibilities": [
+          "Menyusun silabus pengenalan logika coding berbasis visual blocks dan dasar pemrograman.",
+          "Membimbing siswa memecahkan masalah komputasional sederhana dengan cara menyenangkan.",
+          "Mengasah kemampuan komunikasi interpersonal dalam mendampingi anak-anak memahami konsep digital."
+        ]
+      },
+      "network_intern": {
+        "role": "Network Technician Intern",
+        "company": "Instansi & Mitra Jaringan Komputer",
+        "period": "2024 - 2025",
+        "desc": "Terlibat langsung dalam instalasi, konfigurasi, dan pemeliharaan infrastruktur jaringan komputer berskala lokal (LAN) dan nirkabel.",
+        "responsibilities": [
+          "Melakukan perakitan dan crimping kabel UTP Cat5e/Cat6 serta pengujian kelayakan jalur kabel LAN.",
+          "Membantu konfigurasi routing, switching VLAN, dan alokasi IP Address menggunakan MikroTik dan Cisco.",
+          "Melakukan troubleshooting konektivitas jaringan, analisis packet loss, dan optimasi bandwidth."
+        ]
+      },
+      "network_technician": {
+        "role": "Network Technician",
+        "company": "Pemeliharaan Infrastruktur Jaringan & Server",
+        "period": "2023 - 2024",
+        "desc": "Bertanggung jawab atas kelancaran operasional konektivitas jaringan, manajemen perangkat keras switch/router, dan pemantauan sistem laboratorium.",
+        "responsibilities": [
+          "Pengecekan rutin kesehatan perangkat keras jaringan dan manajemen kabel pada rak server.",
+          "Penanganan insiden downtime koneksi internet dan koordinasi pemulihan gateway server.",
+          "Dokumentasi topologi jaringan komputer dan pelaporan status berkala."
+        ]
+      },
+      "electrical_technician": {
+        "role": "Electrical & Hardware Technician",
+        "company": "Layanan Instalasi Kelistrikan & Perangkat Keras",
+        "period": "2022 - 2023",
+        "desc": "Menangani instalasi kelistrikan daya pendukung perangkat IT, pemeliharaan UPS, dan perakitan sistem komputer desktop.",
+        "responsibilities": [
+          "Pemeriksaan jalur daya listrik dan grounding untuk menjaga stabilitas perangkat komputer/server.",
+          "Perakitan, upgrade komponen PC, instalasi sistem operasi, dan diagnosis kerusakan hardware."
+        ]
+      },
+      "organizational": {
+        "role": "Divisi Teknologi & Pengembangan Organisasi",
+        "company": "Himpunan Mahasiswa Informatika / Kegiatan Kampus UHW Perbanas",
+        "period": "2022 - 2025",
+        "desc": "Aktif berpartisipasi dalam kepanitiaan teknologi, seminar keilmuan IT, dan pengembangan komunitas mahasiswa di Universitas Hayam Wuruk Perbanas Surabaya.",
+        "responsibilities": [
+          "Mengorganisir workshop teknologi, kompetisi coding, dan seminar pengenalan tren IT masa kini.",
+          "Membangun kerja sama tim solid, komunikasi kepemimpinan, dan manajemen proyek kegiatan."
+        ]
+      }
+    }
+  },
+  "projects": {
+    "section_badge": "Portofolio Karya",
+    "title": "Proyek Pilihan",
+    "subtitle": "Koleksi proyek nyata dan solusi perangkat lunak yang telah saya rancang dan kembangkan.",
+    "filter_all": "Semua Proyek",
+    "filter_web": "Web & Backend",
+    "filter_ar": "Augmented Reality",
+    "filter_system": "Sistem Informasi",
+    "filter_network": "Jaringan & Server",
+    "status": {
+      "production": "Live di Sekolah",
+      "research": "Riset & Skripsi",
+      "completed": "Selesai",
+      "ongoing": "Dalam Pengembangan"
+    },
+    "view_details": "Lihat Rincian",
+    "modal_overview": "Gambaran Proyek",
+    "modal_key_features": "Fitur Utama",
+    "modal_tech_stack": "Teknologi yang Digunakan",
+    "modal_links": "Tautan & Kode Sumber",
+    "btn_live": "Demo Aplikasi",
+    "btn_github": "Repositori GitHub",
+    "items": {
+      "erapor": {
+        "title": "E-Rapor Keagamaan & Al-Qur'an – SD Patra Dharma 3 Balikpapan",
+        "short_desc": "Sistem informasi berbasis web untuk pengelolaan nilai tahfidz, evaluasi hafalan Al-Qur'an, dan pencetakan rapor keagamaan otomatis di lingkungan sekolah dasar.",
+        "full_desc": "Proyek sistem informasi nyata yang diimplementasikan untuk mendukung operasional SD Patra Dharma 3 Balikpapan. Sistem ini dirancang untuk mengatasi inefisiensi rekapitulasi penilaian hafalan Al-Qur'an dan aspek keagamaan siswa yang sebelumnya dilakukan secara manual. Dilengkapi dengan antarmuka yang bersih untuk para guru, manajemen kelas, kalkulasi capaian otomatis, serta modul cetak rapor PDF berformat resmi.",
+        "features": [
+          "Otomasi kalkulasi nilai tahfidz dan pencatatan riwayat hafalan surat/juz.",
+          "Multi-role user: Administrator, Guru Bidang Studi Keagamaan, dan Wali Kelas.",
+          "Modul generate & cetak lembar rapor keagamaan format PDF berstandar sekolah.",
+          "Database relasional teroptimasi untuk pencatatan historis multi-semester siswa."
+        ]
+      },
+      "ar_routing": {
+        "title": "Aplikasi Pembelajaran Routing Berbasis Augmented Reality",
+        "short_desc": "Aplikasi edukasi inovatif memanfaatkan teknologi Augmented Reality (AR) untuk memvisualisasikan mekanisme routing jaringan komputer dan perangkat keras dalam bentuk 3D interaktif.",
+        "full_desc": "Aplikasi media pembelajaran interaktif yang menggabungkan konsep jaringan komputer dengan teknologi Augmented Reality (AR). Ditujukan untuk mempermudah pemahaman konsep routing yang bersifat abstrak (seperti paket data hops, routing table, dan topologi fisik) menjadi model 3D visual yang dapat diproyeksikan ke dunia nyata melalui kamera smartphone.",
+        "features": [
+          "Visualisasi 3D realistis perangkat router, switch, dan kabel koneksi data.",
+          "Simulasi animasi pergerakan paket data dari node pengirim menuju node penerima.",
+          "Marker tracking interaktif untuk menampilkan diagram alir penentuan jalur terbaik (best path).",
+          "Kuis pemahaman konsep routing terintegrasi dalam antarmuka 3D."
+        ]
+      },
+      "school_scheduling": {
+        "title": "School Scheduling Management System",
+        "short_desc": "Sistem otomasi dan manajemen penjadwalan mata pelajaran sekolah terintegrasi dengan validasi pencegahan bentrok jam mengajar guru.",
+        "full_desc": "Solusi perangkat lunak berbasis web yang dirancang untuk memecahkan kompleksitas pembuatan jadwal pelajaran sekolah. Mengintegrasikan algoritma pemeriksaan constraint untuk memastikan tidak ada guru yang terjadwal di dua kelas bersamaan, ketersediaan ruangan khusus (laboratorium), dan batasan jam mengajar mingguan.",
+        "features": [
+          "Algoritma conflict-checking real-time saat penempatan jam pelajaran.",
+          "Manajemen beban kerja guru, kuota jam per mata pelajaran, dan alokasi ruang kelas.",
+          "Fitur ekspor jadwal ke format matriks mingguan (PDF & Excel) siap cetak.",
+          "Dashboard ringkasan statistik keterisian ruang dan jam aktif sekolah."
+        ]
+      },
+      "network_lab": {
+        "title": "Networking & Server Laboratory Environment",
+        "short_desc": "Perancangan dan implementasi infrastruktur jaringan komputer laboratorium: konfigurasi router MikroTik/Cisco, subnetting, VLAN, dan server Linux.",
+        "full_desc": "Proyek arsitektur infrastruktur fisik dan virtual untuk lingkungan laboratorium komputer. Meliputi perencanaan segmentasi IP address, konfigurasi VLAN untuk memisahkan traffic siswa dan pengajar, implementasi firewall filtering untuk keamanan jaringan, manajemen bandwidth (Queue), serta penyediaan server lokal untuk kebutuhan praktikum.",
+        "features": [
+          "Segmentasi jaringan terisolasi menggunakan Virtual LAN (VLAN).",
+          "Konfigurasi DHCP Server, DNS Caching, dan NAT Gateway menggunakan RouterOS.",
+          "Manajemen bandwidth adil (Bandwidth Limiting & Prioritization) untuk puluhan host.",
+          "Instalasi dan hardening server Linux lokal untuk deployment aplikasi web internal."
+        ]
+      }
+    }
+  },
+  "education": {
+    "section_badge": "Latar Belakang Akademis",
+    "title": "Pendidikan Formal",
+    "subtitle": "Fondasi keilmuan teknologi informasi dan sains komputasi.",
+    "degree": "Sarjana Komputer (S1) – Informatika",
+    "institution": "Universitas Hayam Wuruk Perbanas Surabaya",
+    "period": "2022 - 2026",
+    "status": "Lulusan 2026",
+    "description": "Menempuh pendidikan tinggi ilmu informatika dengan fokus studi pada rekayasa perangkat lunak, sistem basis data terdistribusi, komunikasi data dan jaringan komputer, serta kecerdasan komputasional.",
+    "highlights": [
+      "Fokus Skripsi / Proyek Akhir pada implementasi teknologi terapan dan rekayasa perangkat lunak.",
+      "Aktif dalam berbagai kegiatan praktikum laboratorium jaringan dan rekayasa web.",
+      "Membangun pemahaman komprehensif mulai dari low-level networking hingga high-level web architecture."
+    ]
+  },
+  "certifications": {
+    "section_badge": "Kredensial Profesional",
+    "title": "Sertifikasi & Pelatihan",
+    "subtitle": "Pengakuan kompetensi dan keikutsertaan pelatihan teknologi terstandar.",
+    "items": [
+      {
+        "title": "Computer Networking & Routing Administration",
+        "issuer": "Lembaga Pelatihan & Sertifikasi IT Terakreditasi",
+        "year": "2024",
+        "credentialId": "CNRA-2024-MAU"
+      },
+      {
+        "title": "Full-Stack Web Development Bootcamp",
+        "issuer": "Program Akselerasi Talenta Digital",
+        "year": "2024",
+        "credentialId": "FSWD-2024-089"
+      },
+      {
+        "title": "Linux Server Administration Fundamentals",
+        "issuer": "Komunitas Open Source & Server IT",
+        "year": "2023",
+        "credentialId": "LSA-2023-551"
+      }
+    ]
+  },
+  "services": {
+    "section_badge": "Layanan Freelance",
+    "title": "Solusi Digital untuk Bisnis Anda",
+    "subtitle": "Layanan pembuatan website profesional dengan performa tinggi, desain modern, dan arsitektur yang andal.",
+    "cta_button": "Konsultasi via WhatsApp",
+    "popular_badge": "Paling Populer",
+    "custom_quote": "Harga dapat disesuaikan dengan kebutuhan dan ruang lingkup proyek Anda.",
+    "items": {
+      "company_profile": {
+        "title": "Website Company Profile",
+        "desc": "Tingkatkan kredibilitas perusahaan Anda dengan website profil yang elegan, cepat, responsif di ponsel, dan teroptimasi SEO.",
+        "features": [
+          "Desain eksklusif disesuaikan dengan brand identity",
+          "Halaman Profil, Visi Misi, Layanan & Kontak",
+          "Responsif di smartphone, tablet, dan desktop",
+          "Optimasi SEO dasar agar mudah ditemukan di Google",
+          "Integrasi Google Maps dan tombol WhatsApp"
+        ]
+      },
+      "landing_page": {
+        "title": "High-Converting Landing Page",
+        "desc": "Halaman promosi produk atau event berdaya konversi tinggi dengan copywriting tajam, animasi memikat, dan CTA yang jelas.",
+        "features": [
+          "Fokus pada konversi penjualan dan pendaftaran",
+          "Animasi interaktif halus dan loading super cepat",
+          "Formulir prospek langsung terhubung ke email / WhatsApp",
+          "Tracking pixel ready (Meta / Google Ads)",
+          "Bebas biaya hosting tahun pertama (syarat & ketentuan)"
+        ]
+      },
+      "business_web": {
+        "title": "Business & UMKM Website",
+        "desc": "Kembangkan jangkauan bisnis dengan website katalog produk, profil toko, testimoni pelanggan, dan kemudahan pemesanan.",
+        "features": [
+          "Katalog produk rapi dengan filter kategori",
+          "Sistem tombol beli langsung ke WhatsApp otomatis",
+          "Struktur informasi terarah untuk meningkatkan penjualan",
+          "Dukungan multibahasa (Indonesia & English)",
+          "Pelatihan mandiri untuk mengubah konten produk"
+        ]
+      },
+      "school_system": {
+        "title": "Website & Sistem Informasi Sekolah",
+        "desc": "Digitalisasi sekolah dan lembaga pendidikan: website berita, portal PPDB, profil guru, hingga sistem nilai/e-rapor.",
+        "features": [
+          "Portal berita sekolah, galeri kegiatan, dan prestasi siswa",
+          "Sistem pendaftaran peserta didik baru (PPDB)",
+          "Modul manajemen nilai atau sistem e-rapor kustom",
+          "Akses bertingkat aman untuk staf, guru, dan admin",
+          "Panduan penggunaan lengkap untuk staf sekolah"
+        ]
+      },
+      "custom_app": {
+        "title": "Custom Web Application",
+        "desc": "Pembangunan aplikasi web khusus berbasis kebutuhan alur kerja unik perusahaan Anda (CRM internal, inventaris, atau sistem reservasi).",
+        "features": [
+          "Arsitektur backend tangguh dan database aman",
+          "Dashboard analitik data interaktif dan visual grafis",
+          "Manajemen hak akses role-based authentication",
+          "Integrasi RESTful API pihak ketiga",
+          "Dokumentasi sistem teknis yang transparan"
+        ]
+      },
+      "maintenance": {
+        "title": "Website Maintenance & Optimasi",
+        "desc": "Layanan pemeliharaan berkala, backup rutin, perbaikan bug, penambahan fitur, dan optimasi kecepatan website yang lambat.",
+        "features": [
+          "Audit performa dan peningkatan skor Core Web Vitals",
+          "Pembersihan malware dan penguatan keamanan web",
+          "Backup database dan update versi dependensi",
+          "Migrasi hosting atau penataan konfigurasi domain",
+          "Dukungan teknis prioritas dan konsultasi rutin"
+        ]
+      }
+    }
+  },
+  "contact": {
+    "section_badge": "Mari Terhubung",
+    "title": "Mulai Kolaborasi atau Konsultasi",
+    "subtitle": "Apakah Anda memiliki tawaran posisi pekerjaan, proyek freelance, atau sekadar ingin berdiskusi teknologi? Pintu saya selalu terbuka.",
+    "form": {
+      "name_label": "Nama Lengkap Anda",
+      "name_placeholder": "Contoh: Budi Pratama",
+      "email_label": "Alamat Email",
+      "email_placeholder": "budi@example.com",
+      "subject_label": "Subjek Pesan",
+      "subject_placeholder": "Tawaran Proyek / Pertanyaan Kerja",
+      "message_label": "Pesan",
+      "message_placeholder": "Ceritakan kebutuhan proyek atau pesan Anda secara rinci...",
+      "btn_submit": "Kirim Pesan Sekarang",
+      "btn_submitting": "Mengirim Pesan...",
+      "success_message": "Terima kasih! Pesan Anda telah berhasil dikirim. Saya akan segera membalas ke email Anda.",
+      "error_message": "Mohon maaf, terjadi kendala saat mengirim pesan. Silakan hubungi saya langsung melalui WhatsApp atau Email.",
+      "validation_required": "Field ini wajib diisi.",
+      "validation_email": "Format email tidak valid."
+    },
+    "direct": {
+      "title": "Informasi Kontak Langsung",
+      "subtitle": "Jangan ragu untuk menghubungi melalui kanal resmi berikut:",
+      "email_title": "Email Pribadi",
+      "whatsapp_title": "WhatsApp Resmi",
+      "github_title": "GitHub Profile",
+      "linkedin_title": "LinkedIn Network",
+      "btn_chat_wa": "Chat via WhatsApp",
+      "btn_copy_email": "Salin Alamat Email",
+      "copied_toast": "Email berhasil disalin ke clipboard!"
+    }
+  },
+  "footer": {
+    "rights": "Hak Cipta Dilindungi Undang-Undang.",
+    "built_with": "Dibangun dengan React, TypeScript, Tailwind CSS & Framer Motion.",
+    "back_to_top": "Kembali ke Atas"
+  }
+}

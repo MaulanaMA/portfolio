@@ -1,0 +1,379 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "education": "Education",
+    "services": "Services",
+    "contact": "Contact",
+    "download_cv": "Download CV"
+  },
+  "hero": {
+    "badge_available": "Available for Full-time Roles & Freelance Projects",
+    "greeting": "Hello, I'm",
+    "name": "Maulana Muhammad Adityawarman",
+    "tagline": "Building Digital Solutions Through Code and Technology.",
+    "roles": [
+      "Software Developer",
+      "Backend Specialist",
+      "Network & Infrastructure Enthusiast",
+      "Technology Educator"
+    ],
+    "description": "Informatics Graduate from Universitas Hayam Wuruk Perbanas Surabaya focusing on modern web architecture, resilient backend engineering, relational databases, and computer network infrastructure.",
+    "cta_contact": "Get in Touch",
+    "cta_cv": "Download Resume / CV",
+    "scroll_down": "Scroll down"
+  },
+  "about": {
+    "section_badge": "Professional Profile",
+    "title": "About Me",
+    "subtitle": "Combining a deep passion for software engineering, network infrastructure, and technology education.",
+    "p1": "I am a **Software Developer** and **IT Enthusiast** holding a Bachelor of Computer Science in Informatics from Universitas Hayam Wuruk Perbanas Surabaya (2026). I have a strong commitment to crafting digital solutions that are robust, clean, and scalable.",
+    "p2": "My journey in technology spans beyond just writing code—it encompasses a grounded understanding of **network infrastructure, Linux server administration, Cisco/MikroTik routing & switching**, and database engineering. This holistic perspective enables me to build resilient web architectures from ground up.",
+    "p3": "Beyond technical engineering, I dedicate time as a **Coding & Computational Thinking Instructor** for primary school students. This role continuously sharpens my interpersonal communication, patience, empathy, and ability to break down complex technical paradigms into intuitive concepts.",
+    "stats": {
+      "projects_completed": "Completed Projects",
+      "years_passion": "Years Exploring IT",
+      "students_taught": "Students Mentored",
+      "tech_domains": "Core IT Domains"
+    },
+    "traits": {
+      "problem_solver_title": "Structured Problem Solver",
+      "problem_solver_desc": "Analyzing root causes to build maintainable, efficient, and reliable technical solutions.",
+      "infra_title": "Network & Infra Literate",
+      "infra_desc": "Proficient in server architecture, Cisco/MikroTik routing, and modern web networking protocols.",
+      "communicator_title": "Communication & Mentorship",
+      "communicator_desc": "Capable of cross-functional team collaboration and bridging technical jargon to business needs."
+    }
+  },
+  "skills": {
+    "section_badge": "Technical Competencies",
+    "title": "Skills & Technologies",
+    "subtitle": "Battle-tested technical skills applied in real-world software and infrastructure environments.",
+    "categories": {
+      "programming_backend": "Programming & Backend",
+      "frontend_web": "Frontend & Web Development",
+      "database": "Database & Data Management",
+      "network_infra": "Networking & IT Infrastructure",
+      "tools_devops": "Tools & Workflow"
+    },
+    "level": {
+      "advanced": "Advanced",
+      "intermediate": "Intermediate",
+      "foundation": "Strong Foundation"
+    }
+  },
+  "learning": {
+    "section_badge": "Continuous Growth",
+    "title": "Currently Learning & Exploring",
+    "subtitle": "Constantly expanding into modern paradigms to tackle emerging technological challenges.",
+    "items": [
+      {
+        "name": "Cloud Native & Docker",
+        "description": "Application containerization, microservices deployment, and container orchestration in cloud ecosystems."
+      },
+      {
+        "name": "Next.js & Serverless Architecture",
+        "description": "Deep-diving into Server-Side Rendering (SSR), React Server Components, and edge compute functions."
+      },
+      {
+        "name": "Network Automation (Python & Ansible)",
+        "description": "Automating enterprise router and switch configurations through programmable scripts and playbooks."
+      },
+      {
+        "name": "Advanced Cybersecurity & Hardening",
+        "description": "Linux server security hardening, packet traffic auditing, and web vulnerability prevention."
+      }
+    ]
+  },
+  "experience": {
+    "section_badge": "Track Record",
+    "title": "Work & Field Experience",
+    "subtitle": "A diverse blend of tech education, network engineering, hardware maintenance, and organizational leadership.",
+    "types": {
+      "teaching": "Tech Education",
+      "intern": "Network Internship",
+      "tech": "Field Technician",
+      "organization": "Campus Organization"
+    },
+    "items": {
+      "coding_teacher": {
+        "role": "Coding & Computational Thinking Instructor",
+        "company": "Primary School Technology Education",
+        "period": "2024 - Present",
+        "desc": "Mentoring elementary students in programming fundamentals, computational problem-solving, and computer literacy through engaging interactive learning.",
+        "responsibilities": [
+          "Developed introductory coding syllabi centered on visual block programming and algorithmic reasoning.",
+          "Guided young learners to decompose complex problems into logical, sequential steps.",
+          "Honed interpersonal communication skills by making digital concepts intuitive and exciting for kids."
+        ]
+      },
+      "network_intern": {
+        "role": "Network Technician Intern",
+        "company": "Computer Networking Agency & Partner",
+        "period": "2024 - 2025",
+        "desc": "Hands-on participation in installing, configuring, and maintaining local area networks (LAN) and wireless infrastructures.",
+        "responsibilities": [
+          "Executed crimping and patching of Cat5e/Cat6 UTP cabling and conducted network continuity diagnostics.",
+          "Assisted in configuring routing, VLAN segmentation, and IP subnet allocations on MikroTik and Cisco gear.",
+          "Troubleshot network latency, analyzed packet loss, and assisted with bandwidth optimization."
+        ]
+      },
+      "network_technician": {
+        "role": "Network Technician",
+        "company": "Network Infrastructure & Server Maintenance",
+        "period": "2023 - 2024",
+        "desc": "Responsible for reliable network connectivity, hardware switch/router management, and server lab monitoring.",
+        "responsibilities": [
+          "Performed routine preventive maintenance on network switches, patch panels, and server racks.",
+          "Handled network downtime incidents and coordinated gateway server recoveries.",
+          "Documented network topologies and authored operational status logs."
+        ]
+      },
+      "electrical_technician": {
+        "role": "Electrical & Hardware Technician",
+        "company": "Power Installation & Hardware Support",
+        "period": "2022 - 2023",
+        "desc": "Handled electrical power setups for IT equipment, UPS power maintenance, and custom desktop computer assemblies.",
+        "responsibilities": [
+          "Inspected power distribution lines and electrical groundings to protect sensitive server hardware.",
+          "Assembled custom PC workstations, installed operating systems, and diagnosed component hardware failures."
+        ]
+      },
+      "organizational": {
+        "role": "Technology & Student Development Division",
+        "company": "Informatics Student Association / UHW Perbanas Campus",
+        "period": "2022 - 2025",
+        "desc": "Actively participated in campus technology committees, IT academic seminars, and student tech community initiatives.",
+        "responsibilities": [
+          "Organized technical workshops, coding challenges, and informational seminars on modern IT trends.",
+          "Fostered strong teamwork, leadership communication, and event project management."
+        ]
+      }
+    }
+  },
+  "projects": {
+    "section_badge": "Featured Work",
+    "title": "Selected Projects",
+    "subtitle": "A showcase of real-world applications and digital solutions I have architected and deployed.",
+    "filter_all": "All Projects",
+    "filter_web": "Web & Backend",
+    "filter_ar": "Augmented Reality",
+    "filter_system": "Information Systems",
+    "filter_network": "Network & Server",
+    "status": {
+      "production": "Live in School",
+      "research": "Academic Research",
+      "completed": "Completed",
+      "ongoing": "In Progress"
+    },
+    "view_details": "View Details",
+    "modal_overview": "Project Overview",
+    "modal_key_features": "Key Features",
+    "modal_tech_stack": "Technologies Used",
+    "modal_links": "Source Code & Links",
+    "btn_live": "Live Application",
+    "btn_github": "GitHub Repository",
+    "items": {
+      "erapor": {
+        "title": "Religious Studies & Quran E-Rapor – SD Patra Dharma 3 Balikpapan",
+        "short_desc": "A production web-based information system managing Quranic memorization evaluations, religious scores, and automatic standardized report card generation.",
+        "full_desc": "A production-grade web application deployed for SD Patra Dharma 3 Balikpapan. Built to eliminate manual inefficiencies in compiling tahfidz scores and Islamic studies evaluations. Features a clean, teacher-friendly interface, grade level management, automated cumulative metric calculations, and automated PDF export for official school report cards.",
+        "features": [
+          "Automated tahfidz scoring engine tracking student chapter (juz) and verse memorization progress.",
+          "Role-based access control: Administrators, Religion Subject Teachers, and Homeroom Teachers.",
+          "Dynamic generation and export of formatted, print-ready PDF grade reports.",
+          "Optimized relational schema preserving multi-semester student historical records."
+        ]
+      },
+      "ar_routing": {
+        "title": "Augmented Reality Routing Learning Application",
+        "short_desc": "An innovative educational AR app visualizing computer network routing mechanisms and physical network hardware in interactive 3D.",
+        "full_desc": "An interactive pedagogical tool bridging theoretical computer networking with Augmented Reality. Designed to demystify abstract networking concepts—such as packet hops, routing tables, and physical topology—by projecting 3D interactive models into physical space via smartphone cameras.",
+        "features": [
+          "Realistic 3D representations of enterprise routers, switches, and patch cords.",
+          "Animated packet forwarding simulation demonstrating path selection from source to destination.",
+          "Interactive marker tracking illustrating algorithm flowcharts for best-path selection.",
+          "Integrated in-app quiz assessing students' comprehension of routing protocols."
+        ]
+      },
+      "school_scheduling": {
+        "title": "School Scheduling Management System",
+        "short_desc": "An integrated scheduling management platform featuring automated constraint verification to prevent teacher and classroom conflicts.",
+        "full_desc": "A web solution addressing the combinatorial complexity of academic timetabling. Integrates a conflict-detection engine verifying teacher schedules, specialized laboratory availability, and maximum weekly teaching hour limits.",
+        "features": [
+          "Real-time conflict detection alerting against overlapping teacher assignments.",
+          "Comprehensive workload management per subject and classroom capacity allocations.",
+          "Exportable weekly schedule matrix in print-ready PDF and Excel spreadsheets.",
+          "Intuitive dashboard providing high-level school timetable analytics."
+        ]
+      },
+      "network_lab": {
+        "title": "Networking & Server Laboratory Environment",
+        "short_desc": "Design and deployment of an educational network lab: MikroTik/Cisco routers, subnetting, VLAN segmentation, and localized Linux server setups.",
+        "full_desc": "A comprehensive network architecture engineered for laboratory computing. Encompasses IP address schema planning, VLAN isolation between students and faculty, firewall filtering, fair-use bandwidth queuing, and local Linux server deployment for practical labs.",
+        "features": [
+          "Isolated network segmentation utilizing 802.1Q Virtual LANs (VLAN).",
+          "DHCP Server, DNS Caching, and NAT Gateway configuration on RouterOS.",
+          "Bandwidth queuing and queue-tree prioritization ensuring fair bandwidth distribution across hosts.",
+          "Hardened local Linux server deployment for intranet application testing."
+        ]
+      }
+    }
+  },
+  "education": {
+    "section_badge": "Academic Background",
+    "title": "Formal Education",
+    "subtitle": "The foundational bedrock of computer science and technical problem-solving.",
+    "degree": "Bachelor of Computer Science (S.Kom) – Informatics",
+    "institution": "Universitas Hayam Wuruk Perbanas Surabaya",
+    "period": "2022 - 2026",
+    "status": "Graduate 2026",
+    "description": "Graduated in Informatics with rigorous coursework spanning software engineering, relational database architectures, computer network protocols, and applied computational science.",
+    "highlights": [
+      "Final undergraduate thesis centered on applied software engineering and real-world technology solutions.",
+      "Active participant in advanced networking laboratories and software engineering workshops.",
+      "Built a solid full-spectrum comprehension from low-level networking to modern web architectures."
+    ]
+  },
+  "certifications": {
+    "section_badge": "Professional Credentials",
+    "title": "Certifications & Training",
+    "subtitle": "Formal recognition of technical competencies and standardized learning milestones.",
+    "items": [
+      {
+        "title": "Computer Networking & Routing Administration",
+        "issuer": "Accredited IT Training & Certification Body",
+        "year": "2024",
+        "credentialId": "CNRA-2024-MAU"
+      },
+      {
+        "title": "Full-Stack Web Development Bootcamp",
+        "issuer": "Digital Talent Acceleration Initiative",
+        "year": "2024",
+        "credentialId": "FSWD-2024-089"
+      },
+      {
+        "title": "Linux Server Administration Fundamentals",
+        "issuer": "Open Source & Enterprise Server Community",
+        "year": "2023",
+        "credentialId": "LSA-2023-551"
+      }
+    ]
+  },
+  "services": {
+    "section_badge": "Freelance Services",
+    "title": "Digital Solutions for Your Business",
+    "subtitle": "High-performance, modern, and reliable web development services tailored to your objectives.",
+    "cta_button": "Consult via WhatsApp",
+    "popular_badge": "Most Popular",
+    "custom_quote": "Pricing can be custom-tailored based on your project requirements and scope.",
+    "items": {
+      "company_profile": {
+        "title": "Company Profile Website",
+        "desc": "Elevate your enterprise credibility with an elegant, ultra-fast, mobile-responsive, and SEO-optimized company profile website.",
+        "features": [
+          "Custom design tailored to your unique brand identity",
+          "About, Vision/Mission, Services & Contact pages",
+          "Flawless responsive layout on mobile, tablet & desktop",
+          "Foundational SEO setup for Google search discoverability",
+          "Google Maps & WhatsApp click-to-chat integration"
+        ]
+      },
+      "landing_page": {
+        "title": "High-Converting Landing Page",
+        "desc": "Conversion-focused promotional pages featuring persuasive layout, snappy animations, and clear Call-to-Actions.",
+        "features": [
+          "Optimized for lead generation and user conversion",
+          "Fluid interactive micro-animations with fast load times",
+          "Lead form piped straight to email and WhatsApp",
+          "Ready for Meta & Google Ads tracking pixels",
+          "First-year complimentary hosting options available"
+        ]
+      },
+      "business_web": {
+        "title": "Business & SME Web Portal",
+        "desc": "Expand your market reach with an interactive product showcase, business catalog, client testimonials, and ordering system.",
+        "features": [
+          "Structured product catalog with interactive category filters",
+          "Direct WhatsApp automated ordering buttons",
+          "Clear information architecture driving customer trust",
+          "Bilingual support (Indonesian & English)",
+          "Simple handoff walkthrough for updating products"
+        ]
+      },
+      "school_system": {
+        "title": "School Website & Information System",
+        "desc": "Comprehensive digital presence for educational institutions: news portals, enrollment systems, teacher profiles, or custom grade modules.",
+        "features": [
+          "School news portal, multimedia gallery & achievements",
+          "Online student registration / intake portal (PPDB)",
+          "Custom grade management or e-rapor module",
+          "Multi-tier secure roles for staff, teachers, and admins",
+          "Complete administrative user guide included"
+        ]
+      },
+      "custom_app": {
+        "title": "Custom Web Application",
+        "desc": "Bespoke software built around your exact business workflow (internal CRM, inventory tracking, or reservation systems).",
+        "features": [
+          "Robust backend architecture with secure database design",
+          "Interactive analytics dashboards with visual data charts",
+          "Granular role-based user authentication & permissions",
+          "Third-party RESTful API integrations",
+          "Clear technical documentation and handover"
+        ]
+      },
+      "maintenance": {
+        "title": "Website Maintenance & Optimization",
+        "desc": "Regular maintenance, scheduled database backups, bug fixes, feature expansion, and speed audits for sluggish websites.",
+        "features": [
+          "Speed audit and Core Web Vitals score enhancement",
+          "Security audits and malware vulnerability remediation",
+          "Database backup routines and dependency upgrades",
+          "Domain configuration, DNS setup, and hosting migration",
+          "Priority technical support and routine consultations"
+        ]
+      }
+    }
+  },
+  "contact": {
+    "section_badge": "Get In Touch",
+    "title": "Let's Start a Conversation",
+    "subtitle": "Have a project in mind, an exciting job opportunity, or just want to discuss technology? My inbox is always open.",
+    "form": {
+      "name_label": "Your Full Name",
+      "name_placeholder": "e.g. John Doe",
+      "email_label": "Your Email Address",
+      "email_placeholder": "john@example.com",
+      "subject_label": "Subject",
+      "subject_placeholder": "Project Inquiry / Job Opportunity",
+      "message_label": "Message",
+      "message_placeholder": "Describe your project scope or message in detail...",
+      "btn_submit": "Send Message",
+      "btn_submitting": "Sending...",
+      "success_message": "Thank you! Your message has been sent successfully. I will get back to you shortly.",
+      "error_message": "Sorry, there was an issue sending your message. Please reach out directly via WhatsApp or Email.",
+      "validation_required": "This field is required.",
+      "validation_email": "Please enter a valid email address."
+    },
+    "direct": {
+      "title": "Direct Contact Channels",
+      "subtitle": "Feel free to reach out via any of these channels:",
+      "email_title": "Personal Email",
+      "whatsapp_title": "Official WhatsApp",
+      "github_title": "GitHub Profile",
+      "linkedin_title": "LinkedIn Network",
+      "btn_chat_wa": "Chat via WhatsApp",
+      "btn_copy_email": "Copy Email Address",
+      "copied_toast": "Email copied to clipboard!"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "built_with": "Built with React, TypeScript, Tailwind CSS & Framer Motion.",
+    "back_to_top": "Back to Top"
+  }
+}
